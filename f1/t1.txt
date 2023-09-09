@@ -1,2 +1,4 @@
-"This is a text file in t1"
-"updated 1st on laptop"
+"some data missing"
+
+"this line updated on task2"
+"from laptop"
