@@ -1,6 +1,10 @@
 "hii how are you"
+"some data missing"
 
 "This is a text file in t1"
 
 updating after merging the files
 also deleted some data above as it will not be available in someone's code
+
+"this line updated on task2"
+"from laptop"
