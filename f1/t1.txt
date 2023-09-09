@@ -1,2 +1,6 @@
+"hii how are you"
+
 "This is a text file in t1"
-"updated 1st on laptop"
+
+updating after merging the files
+also deleted some data above as it will not be available in someone's code
