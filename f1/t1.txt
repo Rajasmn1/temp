@@ -3,8 +3,13 @@
 
 "This is a text file in t1"
 
+branch "task2" things added recently
+
+
 updating after merging the files
 also deleted some data above as it will not be available in someone's code
+
+extra coding lines added here by "task2"
 
 "this line updated on task2"
 "from laptop"
