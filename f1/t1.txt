@@ -4,6 +4,9 @@
 "changes made by branch2"
 things added by branch2
 
+"new changes made bty branch2"
+"things to be resolved"
+
 "changes made by branch1"
 things added successfully
 
