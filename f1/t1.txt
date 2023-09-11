@@ -1,5 +1,10 @@
 "Master branch code"
 
 
+"changes made by branch2"
+things added by branch2
+
 "changes made by branch1"
 things added successfully
+
+done successfully
