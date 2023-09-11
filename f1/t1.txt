@@ -1,19 +1,4 @@
-"hii how are you"
-"some data missing"
+"The git trials"
 
-"This is a text file in t1"
-
-added some text by branch "task2"
-
-branch "task1" things added recently
-
-
-updating after merging the files
-also deleted some data above as it will not be available in someone's code
-
-again added some things by "task2"
-
-extra coding lines added here by "task1"
-
-"this line updated on task2"
-"from laptop"
+"in master branch"
+"initial commit"
