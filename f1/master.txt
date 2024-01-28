@@ -14,14 +14,14 @@ change done successfully
 
 ====================================================================================================
 
-br1 file
+br2 file
 
-commit 2
+commit 3
 
 *****************
-br1 change
+br2 change
 *****************
-new change occured
+
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
 
 =========================
