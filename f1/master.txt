@@ -13,35 +13,3 @@ change done successfully
 =========================
 
 ====================================================================================================
-
-br1 file
-
-commit 2
-
-*****************
-br1 change
-*****************
-new change occured
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
-
-=========================
-change done successfully
-=========================
-
-====================================================================================================
-
-br2 file
-
-commit 3
-
-*****************
-br2 change
-*****************
-
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
-
-=========================
-change done successfully
-=========================
-
-====================================================================================================
