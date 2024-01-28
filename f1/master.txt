@@ -1,8 +1,28 @@
 master file
 
-initial change
+initial commit
 
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam modi aut error quia ad earum deleniti quod eligendi, eius architecto cupiditate illum optio adipisci perspiciatis ipsum. Culpa officia explicabo animi, cupiditate repellat maiores optio odit non ab iure, quisquam eaque similique soluta ratione aliquid a, eos consequatur temporibus ut saepe?
+*****************
+initial change
+*****************
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
+
+=========================================================================
+
+change done successfully
+
+=========================================================================
+
+br1 file
+
+commit 2
+
+*****************
+br1 change
+*****************
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
 
 =========================================================================
 
