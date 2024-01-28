@@ -8,11 +8,11 @@ initial change
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
 
-=========================================================================
-
+=========================
 change done successfully
+=========================
 
-=========================================================================
+====================================================================================================
 
 br1 file
 
@@ -24,8 +24,24 @@ br1 change
 
 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
 
-=========================================================================
-
+=========================
 change done successfully
+=========================
 
-=========================================================================
+====================================================================================================
+
+br2 file
+
+commit 3
+
+*****************
+br2 change
+*****************
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nam recusandae magni sunt eum perspiciatis, atque ipsa incidunt itaque mollitia.
+
+=========================
+change done successfully
+=========================
+
+====================================================================================================
