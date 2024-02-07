@@ -7,3 +7,7 @@ print('error')
 # code in f2 branch
 
 print('added after f1')
+
+# f1 branch code
+
+print('f1')
