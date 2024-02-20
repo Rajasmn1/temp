@@ -8,3 +8,5 @@ print('error')
 # mistakes happened
 
 # mistakes resolved successfully
+
+# successfully documented
